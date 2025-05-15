@@ -6,7 +6,7 @@ const Footer = () => (
       {/* Social Media Icons */}
       <div className="flex justify-center space-x-8 mb-1">
         <a
-          href="https://github.com/rudra420-123"
+          href="https://github.com/Rudra-Prasad-Nayak/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-gray-500 transition-colors transform hover:scale-110"

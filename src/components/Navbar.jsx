@@ -10,7 +10,7 @@ const Navbar = () => {
         </h1>
       </div>
       <a
-        href="https://rudra420-123.github.io/RPN_Portfolio/"
+        href="https://Rudra-Prasad-Nayak.github.io/RPN_Portfolio/"
         target="_blank"
         rel="noopener noreferrer"
       >
