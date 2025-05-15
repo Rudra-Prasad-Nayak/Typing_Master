@@ -48,7 +48,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/rudra420-123/Typing_Master.git
+   git clone https://github.com/Rudra-Prasad-Nayak/Typing_Master.git
    cd Typing_Master
    ```
 
