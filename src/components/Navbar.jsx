@@ -10,7 +10,7 @@ const Navbar = () => {
         </h1>
       </div>
       <a
-        href="https://Rudra-Prasad-Nayak.github.io/RPN_Portfolio/"
+        href="https://rudraprasadnayak.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
