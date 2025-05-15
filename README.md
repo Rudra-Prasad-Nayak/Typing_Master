@@ -120,6 +120,6 @@ Feel free to share your thoughts, improvements, or feature ideas! I’d love to 
 
 ## Conclusion
 
-Thank you for checking out the **Typing Master** app! We hope it helps you improve your typing skills. For any issues or suggestions, please open an issue on GitHub.
+Thank you for checking out the **Typing Master** app! I hope it helps you improve your typing skills. For any issues or suggestions, please open an issue on GitHub.
 
 Enjoy Typing Master? Give it a ⭐ on GitHub!
