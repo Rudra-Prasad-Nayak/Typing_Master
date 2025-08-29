@@ -116,8 +116,8 @@ function App() {
       <Navbar />
 
       <div className="flex flex-col items-center justify-center p-6 text-center">
-        <h1 className="text-4xl font-bold mb-2 text-gray-900 dark:text-white">
-          Welcome to Typing Master!
+        <h1 className="text-2xl lg:text-4xl font-bold mb-3 text-gray-900 dark:text-white">
+          Typing Master - Online Typing Speed Test & Practice Tool
         </h1>
 
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">

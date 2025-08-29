@@ -2,7 +2,7 @@ import { User } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <nav className="w-full bg-white dark:bg-[#08013e] text-gray-900 dark:text-white shadow-md px-6 py-3 flex items-center justify-between">
+    <nav className="w-full bg-white dark:bg-[#08013e] text-gray-900 dark:text-white shadow-md px-4 py-3 flex items-center justify-between">
       <div className="flex items-center gap-3">
         <img src="icon.png" alt="Logo" className="w-10 h-10 object-contain" />
         <h1 className="text-xl font-bold text-gray-900 dark:text-white">
@@ -15,7 +15,7 @@ const Navbar = () => {
         rel="noopener noreferrer"
       >
         <button
-          className="flex items-center gap-2 px-4 py-2 bg-[#1c0568] hover:bg-[#1f0288] transition text-white rounded-full"
+          className="flex items-center gap-2 px-3 py-1 bg-[#1c0568] hover:bg-[#1f0288] transition text-white rounded-full"
           title={"Visit Author's Portfolio"}
           aria-label={"Visit Author's Portfolio"}
         >

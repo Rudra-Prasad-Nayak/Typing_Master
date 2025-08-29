@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rudra-prasad-nayak.github.io/Typing_Master/sitemap.xml

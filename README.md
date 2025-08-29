@@ -31,13 +31,13 @@
 /public
 
 /src
-   /assets         
+   /assets
    /components
-      Footer.jsx       
-      Navbar.jsx       
-      ResultPopup.jsx       
-      Timer.jsx       
-      TypingArea.jsx       
+      Footer.jsx
+      Navbar.jsx
+      ResultPopup.jsx
+      Timer.jsx
+      TypingArea.jsx
    /data
       paragraphs.js
    App.jsx
@@ -63,12 +63,12 @@
    ```bash
    npm run dev
    ```
-   
+
 4. **Build for production:**
 
-    ```bash
-    npm run build
-    ```
+   ```bash
+   npm run build
+   ```
 
 ## 🧪 Usage
 
@@ -96,16 +96,16 @@ Feel free to fork this repo, raise issues, or submit pull requests. All contribu
 
 ## 🔗 Connect with Me
 
-* [🌐 GitHub](https://github.com/Rudra-Prasad-Nayak)
-* [💼 LinkedIn](https://www.linkedin.com/in/RudraPrasadNayak728/)
-* [☕ Buy Me a Coffee](https://buymeacoffee.com/rudraprasa3)
+- [🌐 GitHub](https://github.com/Rudra-Prasad-Nayak)
+- [💼 LinkedIn](https://www.linkedin.com/in/RudraPrasadNayak728/)
+- [☕ Buy Me a Coffee](https://buymeacoffee.com/rudraprasa3)
 
 ## 🙌 Appreciate My Work?
 
 If you found this project helpful or inspiring:
 
-* ⭐ Drop a **star** on [GitHub](https://github.com/Rudra-Prasad-Nayak/Typing_Master)
-* ☕ Support me on [Buy Me a Coffee](https://buymeacoffee.com/rudraprasa3)
+- ⭐ Drop a **star** on [GitHub](https://github.com/Rudra-Prasad-Nayak/Typing_Master)
+- ☕ Support me on [Buy Me a Coffee](https://buymeacoffee.com/rudraprasa3)
 
 Your support motivates me to build more cool stuff! 💖
 
